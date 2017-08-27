@@ -1,4 +1,4 @@
-{
+[{
   "icon": "http://www.aljazeera.com/favicon.ico",
   "canonical": "http://www.aljazeera.com/indepth/interactive/2014/12/year-2014-al-jazeera-2014122614430133414.html",
   "site": "@AJEnglish",
@@ -27,4 +27,4 @@
     "type": "rich",
     "html": "<iframe src=\"https://open.spotify.com/embed/artist/0L8ExT028jH3ddEcZwqJJ5\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
   }
-}
+}]

@@ -1,4 +1,5 @@
-{ "icon": "http://www.aljazeera.com/favicon.ico",
+[
+  { "icon": "http://www.aljazeera.com/favicon.ico",
   "canonical": "http://www.aljazeera.com/indepth/interactive/2014/12/year-2014-al-jazeera-2014122614430133414.html",
   "site": "@AJEnglish",
   "title": "The year 2014 on Al Jazeera",
@@ -13,3 +14,4 @@
   "author": "Lucie Morris-Marr, CNN",
   "description": "The happy couple wore matching cream flower garlands in their hair but, although they were married in front of thousands of witnesses, their union isn't legal.",
   "image": "http://i2.cdn.cnn.com/cnnnext/dam/assets/170826175309-02-australia-same-sex-marriage-rally-super-tease.jpg" }
+]

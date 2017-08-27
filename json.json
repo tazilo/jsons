@@ -1,14 +1,10 @@
-[
-  {
-  "icon": "http://www.aljazeera.com/favicon.ico",
+[ { "icon": "http://www.aljazeera.com/favicon.ico",
   "canonical": "http://www.aljazeera.com/indepth/interactive/2014/12/year-2014-al-jazeera-2014122614430133414.html",
   "site": "@AJEnglish",
   "title": "The year 2014 on Al Jazeera",
   "description": "A look back at the stories that shaped our world.",
-  "image": "http://www.aljazeera.com/mritems/Images/2014/12/29/2014122915423122734_20.jpg"
-},
-{
-  "icon": "https://open.scdn.co/static/images/favicon.png ",
+  "image": "http://www.aljazeera.com/mritems/Images/2014/12/29/2014122915423122734_20.jpg"},
+{ "icon": "https://open.scdn.co/static/images/favicon.png ",
   "canonical": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5",
   "site": "Spotify",
   "title": "Red Hot Chili Peppers",
@@ -26,7 +22,4 @@
     "thumbnail_url": "https://i.scdn.co/image/5b2072e522bf3324019a8c2dc3db20116dff0b87",
     "provider_name": "Spotify",
     "type": "rich",
-    "html": "<iframe src=\"https://open.spotify.com/embed/artist/0L8ExT028jH3ddEcZwqJJ5\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>"
-  }
-}
-]
+    "html": "<iframe src=\"https://open.spotify.com/embed/artist/0L8ExT028jH3ddEcZwqJJ5\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>" } } ]

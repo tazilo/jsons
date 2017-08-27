@@ -1,25 +1,20 @@
-[ { "icon": "http://www.aljazeera.com/favicon.ico",
+[
+{
+  "icon": "http://www.aljazeera.com/favicon.ico",
   "canonical": "http://www.aljazeera.com/indepth/interactive/2014/12/year-2014-al-jazeera-2014122614430133414.html",
   "site": "@AJEnglish",
   "title": "The year 2014 on Al Jazeera",
   "description": "A look back at the stories that shaped our world.",
   "image": "http://www.aljazeera.com/mritems/Images/2014/12/29/2014122915423122734_20.jpg"},
-{ "icon": "https://open.scdn.co/static/images/favicon.png ",
-  "canonical": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5",
-  "site": "Spotify",
-  "title": "Red Hot Chili Peppers",
-  "description": "Few rock groups of the '80s broke down as many musical barriers and were as original as the Red Hot Chili Peppers.",
-  "image": "https://i.scdn.co/image/5b2072e522bf3324019a8c2dc3db20116dff0b87",
-  "player": "https://open.spotify.com/embed/artist/0L8ExT028jH3ddEcZwqJJ5?utm_campaign=twitter-player&utm_source=open&utm_medium=twitter",
-  "oembed": {
-    "provider_url": "https://www.spotify.com",
-    "version": "1.0",
-    "thumbnail_width": 300,
-    "height": 380,
-    "thumbnail_height": 300,
-    "title": "Red Hot Chili Peppers",
-    "width": 300,
-    "thumbnail_url": "https://i.scdn.co/image/5b2072e522bf3324019a8c2dc3db20116dff0b87",
-    "provider_name": "Spotify",
-    "type": "rich",
-    "html": "<iframe src=\"https://open.spotify.com/embed/artist/0L8ExT028jH3ddEcZwqJJ5\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"></iframe>" } } ]
+{
+  "icon": "http://edition.cnn.com/favicon.ico",
+  "canonical": "http://www.cnn.com/2017/08/26/asia/australia-same-sex-marriage-rally/index.html",
+  "site": "CNN",
+  "title": "Australians divided over a debate many countries have already had ",
+  "keywords": "asia, Australians divided over a debate many countries have already had  - CNN",
+  "date": "2017-08-26T11:02:35Z",
+  "author": "Lucie Morris-Marr, CNN",
+  "description": "The happy couple wore matching cream flower garlands in their hair but, although they were married in front of thousands of witnesses, their union isn't legal.",
+  "image": "http://i2.cdn.cnn.com/cnnnext/dam/assets/170826175309-02-australia-same-sex-marriage-rally-super-tease.jpg"
+}
+]
